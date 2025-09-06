@@ -6,9 +6,9 @@
   <a href="https://github.com/sayan2001s">
     <img src="https://komarev.com/ghpvc/?username=sayan2001s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sayan2001s&theme=gruvbox&margin-w=15&margin-h=15&column=7" alt="Trophies"/>
-  </a>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sayan2001s&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&rank=-?&row=1" />
+</p>
 </p>
 
 ---
